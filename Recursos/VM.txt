@@ -1,0 +1,18 @@
+1- VMRol => + sus props  !
+2- VMUsuario => + sus props !
+3- VMNegocio => + sus props
+4- VMCategoria => + sus props
+5- VMProducto => + sus props
+6- VMTipoDocumentoVenta => + sus props
+7- VMVenta => + sus props
+8- VMDetalleVenta => + sus props
+9- Menu => + sus props
+10- VMReporteVenta
+11- VMUsuarioLogin
+12- VMCambiarClave => crear props
+13- VMVentasSemana => crear props
+14- VMProductosSemana => crear props
+15- VMDashBoard => crear props
+16- VMPDFVenta => crear props
+
+ 

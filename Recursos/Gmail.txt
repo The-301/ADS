@@ -1,0 +1,14 @@
+/***************Credenciales usuario gmail****************/
+thesurvivor856@gmail.com
+
+ljmnarqwoljajhtc
+
+/**********************Usuario con acceso***********************************/
+
+codigothe301@gmail.com
+12345678
+
+bibliotecaweb-971af.appspot.com
+
+/*********************Clave Api del firebase**********************************/
+AIzaSyDimv8upNUnVBy2XiqNkdgKGnNsCp0JhHU (Clave api)
